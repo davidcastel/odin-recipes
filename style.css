@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(58, 155, 155);
+    font-family: sans-serif;
+}
+
+h1 {
+    font-weight: 600;
+}
+
+a:any-link {
+    padding: 0 10px;
+    color: rgb(151, 63, 63);
+}
+
+a:visited {
+    color: aquamarine;
+}
